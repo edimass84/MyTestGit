@@ -6,7 +6,7 @@ app=Flask(__name__)
 
 progress_data={}
 
-SAVE_PATH="/home/dimas/windows/download/"
+SAVE_PATH="/home/dimas/download/"
 
 def hook(d):
 
